@@ -1,7 +1,6 @@
-
-
 public class Main {
-    public static void main(String[] args) {
+public static void main(String[] args)
+{
 
         // User sgive input --> S, R, P
         //If input ! = S R P re do.
@@ -11,7 +10,7 @@ public class Main {
         char _uChoice, _userMove;
 
         while (true){
-            while (true){
+        while (true){
                 System.out.println("=-=-=-=-=-=  Rock Paper Scissor  =-=-=-=-=-=");
                 System.out.println("\t---> S");
                 System.out.println("\t---> P");
